@@ -1,0 +1,23 @@
+{
+  "name": "jinyongpublish",
+  "version": "1.0.0",
+  "description": "这是一个 GitBook 自动化构建的 Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanjiayingUk/jinyongpublish.git"
+  },
+  "keywords": [],
+  "author": "yanjiayingUk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanjiayingUk/jinyongpublish/issues"
+  },
+  "homepage": "https://github.com/yanjiayingUk/jinyongpublish#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
